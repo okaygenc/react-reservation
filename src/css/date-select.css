@@ -1,0 +1,15 @@
+.date-select-area {
+  margin-top: 20px;
+}
+
+.date-select-area > .check {
+  width: 300px;
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.date-select-area > .check > p {
+  margin-right: 20px;
+  font-weight: bold;
+}

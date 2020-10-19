@@ -1,0 +1,13 @@
+.payments {
+  margin-top: 50px;
+}
+
+.form-area {
+  margin-top: 50px;
+  display: flex;
+  flex-direction: column;
+}
+
+.credit-form {
+  margin-bottom: 10px;
+}

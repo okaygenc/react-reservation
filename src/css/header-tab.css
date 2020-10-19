@@ -1,0 +1,16 @@
+.header-row {
+  display: flex;
+  margin-bottom: 20px;
+}
+.tab-area {
+  padding: 5px 30px 5px 30px;
+  border: 2px solid #e2e2e2;
+}
+
+.header-row > .active {
+  border-color: green;
+}
+
+.header-row > .disabled {
+  background-color: grey;
+}

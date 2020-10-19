@@ -1,0 +1,13 @@
+.home {
+  margin-top: 50px;
+}
+
+.button-area {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 20px;
+}
+
+.button-disabled {
+  visibility: hidden;
+}
